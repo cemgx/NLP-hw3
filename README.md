@@ -1,5 +1,7 @@
 # ddi-odev-3
 
+**Ödevin Açıklaması: Reddit'teki bir konu başlığını baz alarak içerisindeki cümleleri duygu analizi yapıp sınıflandıran kod.
+
 **İlk önce kütüphaneleri import ederek başladım.
 
 ![1](https://user-images.githubusercontent.com/95704587/211209104-40d5cfcd-925b-4a17-8a4b-0be2b0cd158f.png)
