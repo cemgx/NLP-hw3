@@ -50,3 +50,5 @@ Pozitif ve negatif başlıklar adı altında iki kategori için de ilk 5 veriyi 
 En son olarak da bütün verileri grafik tablosu oluşturarak ekrana yazdırdım.
 
 ![11](https://user-images.githubusercontent.com/95704587/211212040-70659ac2-c7fc-4093-beff-47fb10d6d27c.png)
+
+Bu ödevi Cem GÖL ve Kerem AYLANÇ olarak ortak yaptık.
