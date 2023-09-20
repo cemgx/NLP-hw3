@@ -2,7 +2,8 @@
 
 ### İlk önce kütüphaneleri import ederek başladım.
 
-![1](https://user-images.githubusercontent.com/95704587/211209104-40d5cfcd-925b-4a17-8a4b-0be2b0cd158f.png)
+![1](https://github.com/cemgx/ddi-odev-3/assets/95704587/bef31d08-e454-49b5-b641-49fd1968fd36)
+
 <br/><br/>
 
 ### Sonrasında "https://www.reddit.com/prefs/apps" sayfasından id ve secret kodumu oluşturup koda yazdım.
