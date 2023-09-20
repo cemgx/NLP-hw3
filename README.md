@@ -19,7 +19,7 @@
 
 ### nltk kütüphanesini import edip duygu analizi yapılabilebilmesi için vader_lexicon'u indirdim ve nltk.sentiment.vader'in içerisinden SentimentIntensityAnalyzer'i (duygu yoğunluğunu analiz eder) import edip ilk 3 başlığın duygu analizini ekrana yazdırdım.
 
-![5](https://user-images.githubusercontent.com/95704587/211211543-0980ea3a-0cbc-43ef-9c90-765ff66e576c.png)
+![5](https://github.com/cemgx/ddi-odev-3/assets/95704587/3a53d49a-d2bf-40eb-90b9-b3718846525d)
 <br/><br/>
 
 ### Sonrasında ekrana compound edilmiş veriyi yazdırdım.
@@ -51,5 +51,3 @@
 
 ![11](https://user-images.githubusercontent.com/95704587/211212040-70659ac2-c7fc-4093-beff-47fb10d6d27c.png)
 <br/><br/>
-
-# Bu ödevi Cem GÖL ve Kerem AYLANÇ olarak ortak yaptık.
